@@ -21,40 +21,40 @@ Script will generate a “build” folder with placeholder files. Files will aut
 ## Inventory example
 
 Name | Filename | Filetype | Description
---- | ---
-— Pages
+--- | --- | --- | ---
+— Pages |  |  | 
 Home | home | `kit`| Home page
-— Default
-Layout | layout | `scss` | Layout defining styles
-— Sections
-Header | section-header | `scss` | Header defining styles
-Footer | section-foooter | `scss` | Footer defining styles
-Main|section-main | `scss` | Main defining styles
-—Blocks|||
-Blocks|block | `scss` | Block defining styles
-Hero block|block-hero | `kit|scss` | Hero block defining styles
-— Components
-Helpers | helper | `kit|scss` | Helper and utility styles and examples
-Lists | list | `kit|scss` | Base list styles and examples
-Forms | form | `kit|scss` | Base form styles and examples
-Buttons | button | `kit|scss` | Base button styles and examples
-Icons | icon | `kit|scss` | Base icon styles and examples
-Images | image | `kit|scss` | Base image styles and examples
-Typography | typography | `kit|scss` | Base typography styles and examples
-Tables | table | `kit|scss` | Base tables styles and examples
-Navigation | nav | `kit|scss` | Base navigation styles and examples
-Languages | nav-lang | `kit|scss` | Language navigation component
-Breadrcrumbs | nav-breadcrumbs | `kit|scss` | Breadcrumbs navigation component
-Pagination | nav-pagination | `kit|scss` | Pagiantion navigation component
+— Default |  |  | 
+Layout | `layout` | `scss` | Layout defining styles
+— Sections |  |  | 
+Header | `section-header` | `scss` | Header defining styles
+Footer | `section-foooter` | `scss` | Footer defining styles
+Main | `section-main` | `scss` | Main defining styles
+—Blocks |  |  | 
+Blocks | `block` | `scss` | Block defining styles
+Hero block | `block-hero` | `kit|scss` | Hero block defining styles
+— Components |  |  | 
+Helpers | `helper` | `kit|scss` | Helper and utility styles and examples
+Lists | `list` | `kit|scss` | Base list styles and examples
+Forms | `form` | `kit|scss` | Base form styles and examples
+Buttons | `button` | `kit|scss` | Base button styles and examples
+Icons | `icon` | `kit|scss` | Base icon styles and examples
+Images | `image` | `kit|scss` | Base image styles and examples
+Typography | `typography` | `kit|scss` | Base typography styles and examples
+Tables | `table` | `kit|scss` | Base tables styles and examples
+Navigation | `nav` | `kit|scss` | Base navigation styles and examples
+Languages | `nav-lang` | `kit|scss` | Language navigation component
+Breadrcrumbs | `nav-breadcrumbs` | `kit|scss` | Breadcrumbs navigation component
+Pagination | `nav-pagination` | `kit|scss` | Pagiantion navigation component
 Messages|message | `kit|scss` | "Messages (warning| danger| success etc.)"
-Modals|modal | `kit|scss` | Modal styles
-Carousels | carousel | `kit|scss` | Carousel styles
-— Specific
-Product item | product-item | `kit|scss` | Product item
-Product listing | product-listing | `kit|scss` | Product listing
-Post|post | `kit|scss` | Post styles
-— Experimental
-Experimental | experimental | `scss` | Testing
+Modals | `modal` | `kit|scss` | Modal styles
+Carousels | `carousel` | `kit|scss` | Carousel styles
+— Specific |  |  | 
+Product item | `product-item` | `kit|scss` | Product item
+Product listing | `product-listing` | `kit|scss` | Product listing
+Post | `post` | `kit|scss` | Post styles
+— Experimental |  |  | 
+Experimental | `experimental` | `scss` | Testing
 
 Note: I use [CodeKit](https://incident57.com/codekit/help.html#kit) to generate `kit` files into `html`, but you can easily replace `kit` with `html` and the script wil generate `html` files.
 
