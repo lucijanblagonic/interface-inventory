@@ -1,4 +1,4 @@
-# UI Inventory
+# Interface Inventory
 Define your interface components in a spreadsheet format (CSV) and generate starting (HTML, SCSS, JS etc.) files from there via terminal in OSX. Building an UI inventory helps you identify reusable components and think in modular terms.
 
 ## How to use
