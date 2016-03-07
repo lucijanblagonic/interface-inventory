@@ -46,7 +46,7 @@ Navigation | `nav` | `kit|scss` | Base navigation styles and examples
 Languages | `nav-lang` | `kit|scss` | Language navigation component
 Breadrcrumbs | `nav-breadcrumbs` | `kit|scss` | Breadcrumbs navigation component
 Pagination | `nav-pagination` | `kit|scss` | Pagiantion navigation component
-Messages | `message` | `kit|scss` | "Messages (warning| danger| success etc.)"
+Messages | `message` | `kit|scss` | Messages (warning, danger, success etc.)
 Modals | `modal` | `kit|scss` | Modal styles
 Carousels | `carousel` | `kit|scss` | Carousel styles
 — Specific |  |  | 
