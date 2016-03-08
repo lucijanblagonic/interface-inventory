@@ -20,6 +20,8 @@ Script will generate a “build” folder with placeholder files. Files will aut
 
 ## Inventory example
 
+This is a sample interface inventory of the inventory.csv file. I use this as a starting point and modify depending on project requirements.
+
 Name | Filename | Filetype | Description
 --- | --- | --- | ---
 — Pages |  |  | 
